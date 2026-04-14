@@ -1,6 +1,6 @@
 # marut — AI CI/CD Optimization. AI-optimized CI/CD pipelines
 
-AI CI/CD Optimization. AI-optimized CI/CD pipelines. marut gives you a focused, inspectable implementation of that idea.
+AI CI/CD Optimization. AI-optimized CI/CD pipelines.
 
 ## Why marut
 
